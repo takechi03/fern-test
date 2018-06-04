@@ -1905,6 +1905,7 @@ background: #1689c6;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  width: 100%;
 }
 
 .ubea-card-item .ubea-text {
